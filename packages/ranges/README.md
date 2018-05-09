@@ -1,7 +1,7 @@
 # @zendeskgarden/react-ranges
 
 This package includes components relating to ranges in the
-[Garden Design System](http://zendeskgarden.github.io/).
+[Garden Design System](https://zendeskgarden.github.io/).
 
 ## Installation
 
